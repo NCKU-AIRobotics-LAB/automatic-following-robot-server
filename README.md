@@ -3,7 +3,7 @@
 ## before co-working
 This Python Project use the following setting:
 
-- Python version: `3.9`
+- Python version: `3.9.7`
 - packaging tool: `pipenv`
 - Linter: `Flake8`
 - Formatter: `yapf`
