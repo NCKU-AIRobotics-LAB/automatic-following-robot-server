@@ -1,0 +1,13 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "PKief.material-icon-theme",
+        "oderwat.indent-rainbow",
+        "njpwerner.autodocstring",
+        "njqdev.vscode-python-typehint",
+        "eamodio.gitlens-insiders",
+        "mhutchie.git-graph",
+        "streetsidesoftware.code-spell-checker",
+        "wayou.vscode-todo-highlight"
+    ]
+}
