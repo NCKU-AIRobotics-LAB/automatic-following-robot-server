@@ -2,6 +2,7 @@
     "recommendations": [
         "ms-python.python",
         "PKief.material-icon-theme",
+        "ms-python.vscode-pylance",
         "oderwat.indent-rainbow",
         "njpwerner.autodocstring",
         "njqdev.vscode-python-typehint",

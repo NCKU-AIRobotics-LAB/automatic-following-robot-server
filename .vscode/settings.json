@@ -2,11 +2,18 @@
     "files.autoSave": "afterDelay",
     "python.linting.enabled": true,
     "python.linting.flake8Enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=150"
+    ],
     "python.formatting.provider": "yapf",
     "editor.formatOnSave": true,
     "cSpell.ignoreRegExpList": [
         "yapf",
-        "pipenv"
+        "pipenv",
+        "ndarray",
+        "dtype",
+        "fastapi",
+        "frombuffer"
     ],
     "todohighlight.keywords": [
         {
