@@ -5,10 +5,13 @@ name = "pypi"
 
 [packages]
 fastapi = {extras = ["all"], version = "0.76.0"}
+requests = "*"
+opencv-python = "*"
+pillow = "*"
 
 [dev-packages]
 flake8 = "4.0.1"
 yapf = "0.32.0"
 
 [requires]
-python_version = "3.9.7"
+python_version = "3.9.12"
