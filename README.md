@@ -1,4 +1,4 @@
-# automatic-following-robot
+# automatic-following-robot-server
 
 ## before co-working
 This Python Project use the following setting:
